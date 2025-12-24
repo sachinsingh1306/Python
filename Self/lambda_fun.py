@@ -12,10 +12,7 @@ print(square(n))
 
 '''
 
-'''
-2. Lambda with multiple argument 
+# 2. Lambda with multiple argument 
 
 add = lambda a, b : a+b
 print(add(3,4))
-
-'''
